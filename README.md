@@ -2,8 +2,8 @@
 
 ### Computer Science Student | Year 3
 
-Focused on **Systems Programming** and **Network Security**.
-I am passionate about understanding low-level architecture and Linux environments.
+Focused on **Systems Programming**, **Application Development** and **Network Security**.
+I combine my passion for low-level architecture with creative development to build software.
 
 ---
 
@@ -13,13 +13,12 @@ I am passionate about understanding low-level architecture and Linux environment
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
 </p>
 
 **Environment & Networking**
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
