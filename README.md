@@ -25,10 +25,8 @@ I am passionate about understanding low-level architecture and Linux environment
 
 ---
 
-### 📈 Activity
+### 👨‍💻 What I'm up to:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrusu1&show_icons=true&theme=buefy&hide_border=true)
-
----
-
-[<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandru-rusu-00140a334/)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=true&width=435&lines=Initialising+system...;Loading+modules:+Python,+C++...;ACCESS+GRANTED:+Student+Mode;Exploiting+coffee+for+code..." alt="Typing SVG" />
+</a>
