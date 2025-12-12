@@ -1,4 +1,4 @@
-# Hi, I'm [Numele Tău]
+# Hi, I'm Alexandru
 
 ### Computer Science Student | Year 3
 
@@ -33,4 +33,4 @@ I am passionate about understanding low-level architecture and Linux environment
 
 ---
 
-[<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](LINK-LINKEDIN)
+[<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandru-rusu-00140a334/)
