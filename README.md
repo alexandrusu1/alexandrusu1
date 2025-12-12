@@ -23,8 +23,5 @@ I am passionate about understanding low-level architecture and Linux environment
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
----
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hrRJ4XRQHdqDnwltGV/giphy.gif" width="600" />
-</div>
+
