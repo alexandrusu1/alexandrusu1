@@ -28,7 +28,7 @@ I am passionate about understanding low-level architecture and Linux environment
 ### 📈 Activity
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrusu1&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="150" alt="stats graph" />
 </div>
 
 ---
