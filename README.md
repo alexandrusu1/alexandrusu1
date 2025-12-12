@@ -25,8 +25,6 @@ I am passionate about understanding low-level architecture and Linux environment
 
 ---
 
-### 👨‍💻 What I'm up to:
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=true&width=435&lines=Initialising+system...;Loading+modules:+Python,+C++...;ACCESS+GRANTED:+Student+Mode;Exploiting+coffee+for+code..." alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="https://media.giphy.com/media/hrRJ4XRQHdqDnwltGV/giphy.gif" width="600" />
+</div>
